@@ -1,0 +1,7 @@
+git push --set-upstream origin update_scrip # to push in branch
+git add . 
+git commit -m ""
+git push 
+
+git checkout -b branch_name
+git checkout main 
